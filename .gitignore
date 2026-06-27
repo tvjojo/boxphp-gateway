@@ -1,0 +1,20 @@
+# Rust build artifacts
+/target
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config (contains secrets)
+config.yaml
+*.local
+
+# Logs
+*.log
